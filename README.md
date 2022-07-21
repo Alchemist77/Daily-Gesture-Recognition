@@ -1,6 +1,6 @@
 # Daily Gesture Recognition During Human-Robot Interaction Combining Vision and Wearable Systems
 
-It is a classification of daily gesture data using LSTM.
+It is a code for classification of daily gesture data using LSTM.
 
 ## Prerequisites
 * Ubuntu 16.04
